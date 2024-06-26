@@ -1,5 +1,5 @@
 {
-  "name": "@fast-crud/fast-crud",
+  "name": "@zzly/fast-crud",
   "version": "1.21.1",
   "private": false,
   "main": "./src/index.ts",
