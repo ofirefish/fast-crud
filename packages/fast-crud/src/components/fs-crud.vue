@@ -43,6 +43,7 @@
       <fs-tabs-filter v-if="tabsBinding.show" ref="tabsRef" class="fs-tabs" v-bind="tabsBinding" />
     </template>
     <template #table>
+      <p>dddddddddddddddddddddddddddd</p>
       <fs-table
         ref="tableRef"
         class="fs-crud-table"
